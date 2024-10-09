@@ -1,0 +1,68 @@
+﻿@page
+@model Admin.EndPoint.Pages.CatalogItems.IndexModel
+@{
+}
+
+
+
+<div class="col-xl-12 col-md-12 col-sm-12 col-12">
+    <h4>لیست محصولات</h4>
+</div>
+<div class="col-md-12">
+
+
+    <table id="html5-extension" class="table table-hover non-hover dataTable no-footer" style="width: 100%;" role="grid" aria-describedby="html5-extension_info">
+        <thead>
+            <tr role="row">
+
+
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">شناسه</th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">نام محصول</th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">قیمت </th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">موجودی </th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">حداقل برای سفارش مجدد </th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">حداکثر موجودی </th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">دسته بندی </th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;">برند </th>
+                <th class="sorting_asc" tabindex="0" aria-controls="html5-extension" rowspan="1" colspan="1" aria-sort="ascending" aria-label="نام: activate to sort column descending" style="width: 86px;"> </th>
+
+        </thead>
+        <tbody>
+            @foreach (var item in Model.pagenatedItemDto.Items)
+            {
+                <tr role="row">
+                    <td class="sorting_1">@item.Id</td>
+                    <td>@item.Name</td>
+                    <td> @item.Price.ToString("n0") </td>
+                    <td> @item.AvailableStock </td>
+                    <td> @item.RestockTreshold </td>
+                    <td> @item.MaxStockTreshold </td>
+                    <td> @item.CatalogCategoryType </td>
+                    <td> @item.CatalogBrand </td>
+
+                    <td>
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-dark btn-sm">بیشتر</button>
+                            <button type="button" class="btn btn-dark btn-sm dropdown-toggle dropdown-toggle-split" id="dropdownMenuReference25" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-reference="parent">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuReference25">
+                                <a class="dropdown-item" asp-page="edit" asp-route-id="@item.Id">ویرایش</a>
+                                <a class="dropdown-item" asp-page="remove" asp-route-id="@item.Id">حذف</a>
+                                <a class="dropdown-item" asp-page="create" asp-route-id="@item.Id">افزودن فرزند</a>
+                                <a class="dropdown-item" asp-page="index" asp-route-id="@item.Id">مشاهده فرزندان</a>
+
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+
+
+        </tbody>
+    </table>
+</div>
+
+
+

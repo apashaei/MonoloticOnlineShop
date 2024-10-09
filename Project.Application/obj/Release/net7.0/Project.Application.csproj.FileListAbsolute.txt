@@ -1,0 +1,17 @@
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Project.Application.deps.json
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Project.Application.dll
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Project.Application.pdb
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Common.dll
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Project.Domain.dll
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Common.pdb
+C:\Users\Alipa\source\repos\StartProject\Project.Application\bin\Release\net7.0\Project.Domain.pdb
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.csproj.AssemblyReference.cache
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.AssemblyInfoInputs.cache
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.AssemblyInfo.cs
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project..E365C10A.Up2Date
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.dll
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\refint\Project.Application.dll
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\Project.Application.pdb
+C:\Users\Alipa\source\repos\StartProject\Project.Application\obj\Release\net7.0\ref\Project.Application.dll

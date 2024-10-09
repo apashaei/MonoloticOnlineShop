@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alipa\\source\\repos\\StartProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\endpoint\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|solutionrelative:endpoint\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\endpoint\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|solutionrelative:endpoint\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\admin.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|solutionrelative:admin.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|solutionrelative:endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C06B3F-773E-402D-953A-36B243C087F9}|Project.Persistence\\Project.Persistence.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.persistence\\seeds\\dastabasecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C06B3F-773E-402D-953A-36B243C087F9}|Project.Persistence\\Project.Persistence.csproj|solutionrelative:project.persistence\\seeds\\dastabasecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C06B3F-773E-402D-953A-36B243C087F9}|Project.Persistence\\Project.Persistence.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C06B3F-773E-402D-953A-36B243C087F9}|Project.Persistence\\Project.Persistence.csproj|solutionrelative:project.persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.application\\catalogs\\catalogitems\\addnewcatalogitem\\iaddnewcatalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\catalogs\\catalogitems\\addnewcatalogitem\\iaddnewcatalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.application\\catalogs\\catalogitems\\addnewcatalogitem\\addnewcatalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\catalogs\\catalogitems\\addnewcatalogitem\\addnewcatalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF3509F-6858-428B-B89A-48C68672F7AE}|Project.Domain\\Project.Domain.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.domain\\catalog\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF3509F-6858-428B-B89A-48C68672F7AE}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\catalog\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF3509F-6858-428B-B89A-48C68672F7AE}|Project.Domain\\Project.Domain.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.domain\\baskets\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF3509F-6858-428B-B89A-48C68672F7AE}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\baskets\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\admin.endpoint\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|solutionrelative:admin.endpoint\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\admin.endpoint\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|solutionrelative:admin.endpoint\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\endpoint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|solutionrelative:endpoint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12ECA7-5CE5-4A47-AAB1-4B7A553368E1}|StaticFiles.EndPoint\\StaticFiles.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\staticfiles.endpoint\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B12ECA7-5CE5-4A47-AAB1-4B7A553368E1}|StaticFiles.EndPoint\\StaticFiles.EndPoint.csproj|solutionrelative:staticfiles.endpoint\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB671AE6-8997-4E76-B94C-521644DC54E3}|Infrastructure\\Project.Infrastructure.csproj|c:\\users\\alipa\\source\\repos\\startproject\\infrastructure\\externalapi\\imageservice\\uploadimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB671AE6-8997-4E76-B94C-521644DC54E3}|Infrastructure\\Project.Infrastructure.csproj|solutionrelative:infrastructure\\externalapi\\imageservice\\uploadimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.application\\orderservices\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\orderservices\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\endpoint\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|solutionrelative:endpoint\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|c:\\users\\alipa\\source\\repos\\startproject\\project.application\\catalogs\\catalogitems\\getcatalogitemlist\\getcatalogitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1256FD81-0C3F-4935-8D75-C4293DDC7C3C}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\catalogs\\catalogitems\\getcatalogitemlist\\getcatalogitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\endpoint\\views\\basket\\shippingpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29B32361-6DB1-4E21-A6DD-DF090B1A7584}|EndPoint\\Project.EndPoint.csproj|solutionrelative:endpoint\\views\\basket\\shippingpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\admin.endpoint\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|solutionrelative:admin.endpoint\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|c:\\users\\alipa\\source\\repos\\startproject\\admin.endpoint\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC3940-9E93-4D31-BC1A-088089D8B160}|Admin.EndPoint\\Admin.EndPoint.csproj|solutionrelative:admin.endpoint\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Domain\\Baskets\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Baskets\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Domain\\Baskets\\BasketItem.cs",
+              "RelativeToolTip": "Project.Domain\\Baskets\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:53:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Persistence\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "Project.Persistence\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Persistence\\DataBaseContext.cs",
+              "RelativeToolTip": "Project.Persistence\\DataBaseContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:33:24.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DastaBaseContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Persistence\\Seeds\\DastaBaseContextSeed.cs",
+              "RelativeDocumentMoniker": "Project.Persistence\\Seeds\\DastaBaseContextSeed.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Persistence\\Seeds\\DastaBaseContextSeed.cs",
+              "RelativeToolTip": "Project.Persistence\\Seeds\\DastaBaseContextSeed.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAtwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:11:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Program.cs",
+              "RelativeDocumentMoniker": "EndPoint\\Program.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Program.cs",
+              "RelativeToolTip": "EndPoint\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAD4v0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:56:25.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Program.cs",
+              "RelativeDocumentMoniker": "Admin.EndPoint\\Program.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Program.cs",
+              "RelativeToolTip": "Admin.EndPoint\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAMwD8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:20:13.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EndPoint\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EndPoint\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAIAwwH8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:38:56.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "EndPoint\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "EndPoint\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAD4v5oAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:54:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAddNewCatalogItem.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\IAddNewCatalogItem.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\IAddNewCatalogItem.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\IAddNewCatalogItem.cs",
+              "RelativeToolTip": "Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\IAddNewCatalogItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:55:54.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNewCatalogItem.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\AddNewCatalogItem.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\AddNewCatalogItem.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\AddNewCatalogItem.cs",
+              "RelativeToolTip": "Project.Application\\Catalogs\\CatalogItems\\AddNewCatalogItem\\AddNewCatalogItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:56:01.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EndPoint\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EndPoint\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAANEDAAAAAAAAAAAqwL4GAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:50:10.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatalogItem.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Domain\\Catalog\\CatalogItem.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Catalog\\CatalogItem.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Domain\\Catalog\\CatalogItem.cs",
+              "RelativeToolTip": "Project.Domain\\Catalog\\CatalogItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:27:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\OrderServices\\OrderServices.cs",
+              "RelativeDocumentMoniker": "Project.Application\\OrderServices\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\OrderServices\\OrderServices.cs",
+              "RelativeToolTip": "Project.Application\\OrderServices\\OrderServices.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:23:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Admin.EndPoint\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Admin.EndPoint\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T16:43:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Admin.EndPoint\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Admin.EndPoint\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA2wCwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:49:36.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UploadImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Infrastructure\\ExternalApi\\ImageService\\UploadImageService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExternalApi\\ImageService\\UploadImageService.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Infrastructure\\ExternalApi\\ImageService\\UploadImageService.cs",
+              "RelativeToolTip": "Infrastructure\\ExternalApi\\ImageService\\UploadImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:31:58.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "StaticFiles.EndPoint\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "StaticFiles.EndPoint\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:54:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EndPoint\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EndPoint\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:45:45.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShippingPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Views\\Basket\\ShippingPayment.cshtml",
+              "RelativeDocumentMoniker": "EndPoint\\Views\\Basket\\ShippingPayment.cshtml",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\EndPoint\\Views\\Basket\\ShippingPayment.cshtml",
+              "RelativeToolTip": "EndPoint\\Views\\Basket\\ShippingPayment.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:35:01.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetCatalogItemList.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\Catalogs\\CatalogItems\\GetCatalogItemList\\GetCatalogItemList.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Catalogs\\CatalogItems\\GetCatalogItemList\\GetCatalogItemList.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Project.Application\\Catalogs\\CatalogItems\\GetCatalogItemList\\GetCatalogItemList.cs",
+              "RelativeToolTip": "Project.Application\\Catalogs\\CatalogItems\\GetCatalogItemList\\GetCatalogItemList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:01:33.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Admin.EndPoint\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "Admin.EndPoint\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:56:39.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Admin.EndPoint\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Alipa\\source\\repos\\StartProject\\Admin.EndPoint\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Admin.EndPoint\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T17:31:58.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

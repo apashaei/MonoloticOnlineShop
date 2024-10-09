@@ -1,0 +1,89 @@
+﻿@page
+@model Admin.EndPoint.Pages.Banners.AddBannercshtmlModel
+@{
+}
+
+@using Project.Domain.Banners
+
+<link href="~/mdpersiandatetimepicker/jquery.md.bootstrap.datetimepicker.style.css" rel="stylesheet" />
+<link href="~/lib/select2/css/select2.css" rel="stylesheet" />
+<link href="~/lib/select2/css/select2.min.css" rel="stylesheet" />
+
+<link href="https://raw.githack.com/ttskch/select2-bootstrap4-theme/master/dist/select2-bootstrap4.css" rel="stylesheet">
+
+
+
+<div class="col-lg-12 col-12 layout-spacing">
+    <div class="statbox widget box box-shadow">
+        <div class="widget-header">
+            <div class="row">
+                <div class="col-xl-12 col-md-12 col-sm-12 col-12">
+                    <h4>افزودت بنر جدید.</h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="widget-content widget-content-area">
+            <form method="post" asp-page="AddBannercshtml" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label asp-for="model.Name"></label>
+                        <input type="text" class="form-control" asp-for="model.Name" />
+                        <span asp-validation-for="model.Name" class="text-danger"></span>
+
+                    </div>
+
+
+                    <div class="form-group col-md-4">
+                        <label asp-for="BannerImage"></label>
+                        <input type="file" asp-for="BannerImage" multiple class="form-control" accept="image/" id="images" />
+                        <span asp-validation-for="BannerImage" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="form-group col-md-4">
+                        <label asp-for="model.Link"></label>
+                        <input type="text" class="form-control" asp-for="model.Link" />
+                        <span asp-validation-for="model.Link" class="text-danger"></span>
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label asp-for="model.IActive"></label>
+                        <input  value="model.IActive" class="form-control" asp-for="model.IActive" />
+                        <span asp-validation-for="model.IActive" class="text-danger"></span>
+
+                    </div>
+
+
+                    <div class="form-group col-md-4">
+                        <label asp-for="model.Position"></label>
+                        <select class="form-control" asp-for="model.Position" asp-items="@Html.GetEnumSelectList<Position>()"></select>
+
+                        <span asp-validation-for="model.Position" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="form-group col-md-4">
+                        <label asp-for="model.Priority"></label>
+                        <input class="form-control" asp-for="model.Priority" type="text" />
+                        <span asp-validation-for="model.Priority" class="text-danger"></span>
+
+                    </div>
+
+
+                </div>
+
+
+                <button type="submit" class="btn btn-primary mb-2">اولیه</button>
+                <button class="btn btn-info mb-2">بازگشت به لیست</button>
+
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+C:\Users\Alipa\source\repos\StartProject\Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\Alipa\source\repos\StartProject\Common\bin\Debug\net7.0\Common.dll
+C:\Users\Alipa\source\repos\StartProject\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\Common.dll
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\Common.pdb
+C:\Users\Alipa\source\repos\StartProject\Common\obj\Debug\net7.0\ref\Common.dll

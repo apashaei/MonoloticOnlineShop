@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\StaticFiles.EndPoint.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StaticFiles.EndPoint.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f028.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f032.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f033.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f033.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f034.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\05587384-4411-417d-9213-a3ac90a9450f034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\15f3d355-bfd0-4345-bdf5-f7610f1d61e705.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\15f3d355-bfd0-4345-bdf5-f7610f1d61e705.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\24779240-255a-422f-b2af-b9f9ded1d6edslider-1.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\24779240-255a-422f-b2af-b9f9ded1d6edslider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\30246419-b872-45b8-9e33-a9f0a4470459banner-md-05.gif",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\30246419-b872-45b8-9e33-a9f0a4470459banner-md-05.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\3adfe6fd-ff6a-4e6f-a46d-407cc7fc3dd4banner-md-01.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\3adfe6fd-ff6a-4e6f-a46d-407cc7fc3dd4banner-md-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4952688a-8d4b-4d78-9217-f1c0003febfb021.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4952688a-8d4b-4d78-9217-f1c0003febfb021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4952688a-8d4b-4d78-9217-f1c0003febfb022.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4952688a-8d4b-4d78-9217-f1c0003febfb022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4952688a-8d4b-4d78-9217-f1c0003febfb023.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4952688a-8d4b-4d78-9217-f1c0003febfb023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4a416972-2989-494d-b47b-5190d9fc4353021.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4a416972-2989-494d-b47b-5190d9fc4353021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4a416972-2989-494d-b47b-5190d9fc4353022.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4a416972-2989-494d-b47b-5190d9fc4353022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4a416972-2989-494d-b47b-5190d9fc4353023.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4a416972-2989-494d-b47b-5190d9fc4353023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\4b808213-e8a6-4b96-a794-e1ee1757c508banner-sm-01.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\4b808213-e8a6-4b96-a794-e1ee1757c508banner-sm-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\539b05c7-6e7d-4234-92da-b5afbde0931c07.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\539b05c7-6e7d-4234-92da-b5afbde0931c07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\59699b9e-45b7-4d97-91d0-aa864fc398ddbanner-md-03.gif",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\59699b9e-45b7-4d97-91d0-aa864fc398ddbanner-md-03.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\5b898f5b-1976-4519-af4c-3815257f7f85slider-3.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\5b898f5b-1976-4519-af4c-3815257f7f85slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\6ce5d397-bf97-49d6-b542-18947a659f0e021.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\6ce5d397-bf97-49d6-b542-18947a659f0e021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\6ce5d397-bf97-49d6-b542-18947a659f0e022.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\6ce5d397-bf97-49d6-b542-18947a659f0e022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\6ce5d397-bf97-49d6-b542-18947a659f0e023.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\6ce5d397-bf97-49d6-b542-18947a659f0e023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\765b2b13-de50-4428-b0cd-456d7408dc88banner-lg-01.gif",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\765b2b13-de50-4428-b0cd-456d7408dc88banner-lg-01.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\93e400b8-4ca9-4a04-b4ca-a6fddfcc4cf3banner-md-02.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\93e400b8-4ca9-4a04-b4ca-a6fddfcc4cf3banner-md-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\9714bac0-68cd-4475-b3f3-29963b95070e021.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\9714bac0-68cd-4475-b3f3-29963b95070e021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\9714bac0-68cd-4475-b3f3-29963b95070e022.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\9714bac0-68cd-4475-b3f3-29963b95070e022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\9714bac0-68cd-4475-b3f3-29963b95070e023.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\9714bac0-68cd-4475-b3f3-29963b95070e023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\9c32bc0e-6944-4bbb-981a-8c67069c4ee9banner-md-2.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\9c32bc0e-6944-4bbb-981a-8c67069c4ee9banner-md-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\a6b42fae-cc10-4a01-94f1-485ce546b8b7021.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\a6b42fae-cc10-4a01-94f1-485ce546b8b7021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\a6b42fae-cc10-4a01-94f1-485ce546b8b7022.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\a6b42fae-cc10-4a01-94f1-485ce546b8b7022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\a6b42fae-cc10-4a01-94f1-485ce546b8b7023.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\a6b42fae-cc10-4a01-94f1-485ce546b8b7023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\b9ffdf83-c205-4277-a91b-002583031bdfslider-7.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\b9ffdf83-c205-4277-a91b-002583031bdfslider-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\bb302a21-c57e-41f3-b798-aeeecaf86cfdbanner-md-2.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\bb302a21-c57e-41f3-b798-aeeecaf86cfdbanner-md-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\c59a1ea7-d3cd-4b94-a43c-e0528a2c02f6banner-sm-04.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\c59a1ea7-d3cd-4b94-a43c-e0528a2c02f6banner-sm-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\c77a8d20-2810-49ce-92d1-334579e99938slider-6.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\c77a8d20-2810-49ce-92d1-334579e99938slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\cc343f60-36f1-4482-b101-9cbad967901a255x255.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\cc343f60-36f1-4482-b101-9cbad967901a255x255.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\cc343f60-36f1-4482-b101-9cbad967901a350x250.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\cc343f60-36f1-4482-b101-9cbad967901a350x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\ced0ae56-6391-48de-8137-3f6b7c2450d3021.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\ced0ae56-6391-48de-8137-3f6b7c2450d3021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\daafdf0a-ba28-43be-89aa-67fdee667e83banner-sm-02.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\daafdf0a-ba28-43be-89aa-67fdee667e83banner-sm-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\e8da4d97-4a8f-40da-9705-4a5b46dc7632banner-md-04.gif",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\e8da4d97-4a8f-40da-9705-4a5b46dc7632banner-md-04.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\Resources\\images\\2024-8\\f9b9549b-fe06-4beb-9089-39691dca4db3banner-sm-03.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\2024-8\\f9b9549b-fe06-4beb-9089-39691dca4db3banner-sm-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alipa\\source\\repos\\StartProject\\StaticFiles.EndPoint\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.StaticFiles.EndPoint.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.StaticFiles.EndPoint.props",
+      "PackagePath": "build\\StaticFiles.EndPoint.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StaticFiles.EndPoint.props",
+      "PackagePath": "buildMultiTargeting\\StaticFiles.EndPoint.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.StaticFiles.EndPoint.props",
+      "PackagePath": "buildTransitive\\StaticFiles.EndPoint.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

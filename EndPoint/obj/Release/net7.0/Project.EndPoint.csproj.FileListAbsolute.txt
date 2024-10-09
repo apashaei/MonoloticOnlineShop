@@ -1,0 +1,8 @@
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.csproj.AssemblyReference.cache
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.AssemblyInfoInputs.cache
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.AssemblyInfo.cs
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.csproj.CoreCompileInputs.cache
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.RazorAssemblyInfo.cache
+C:\Users\Alipa\source\repos\StartProject\EndPoint\obj\Release\net7.0\Project.EndPoint.RazorAssemblyInfo.cs
